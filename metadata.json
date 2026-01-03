@@ -1,0 +1,5 @@
+{
+  "name": "Deepwoken Architect",
+  "description": "A high-end build generator for the Roblox game Deepwoken, featuring AI-generated character visuals, stat progressions, and meta-tuned descriptions using Gemini and Imagen.",
+  "requestFramePermissions": []
+}
